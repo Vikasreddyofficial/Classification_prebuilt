@@ -1,4 +1,4 @@
-# classifier/serializers.py
+# classify_cat_dog/serializers.py
 from rest_framework import serializers
 from .models import UploadedImage
 

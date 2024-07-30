@@ -20,3 +20,4 @@ urlpatterns = [
     path('api/', include('classify_cat_dog.urls')),
     path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
 ]
+a

@@ -1,4 +1,4 @@
-# classifier/urls.py
+# classify_cat_dog/urls.py
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import UploadedImageViewSet
