@@ -83,7 +83,7 @@ Here's a list of available API endpoints in the project:
 - Method: POST
 - Description: Upload an image for classification. The response includes the top prediction and a list of facts from Wikipedia.
 
-Response:
+Response(Example):
 
 ```bash
 {
