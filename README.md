@@ -1,5 +1,5 @@
 
-#Classifier_Pretrained_model Project
+# Classifier_Pretrained_model Project
 ## Overview
 
 Classify Cat Dog is a Django-based project designed to classify images of cats and dogs using a pre-trained MobileNetV2 model. The application allows users to upload images and receive predictions of the object depicted, along with some interesting facts fetched from Wikipedia.
