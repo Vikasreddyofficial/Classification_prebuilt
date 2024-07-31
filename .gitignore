@@ -1,0 +1,67 @@
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+*.sqlite3
+
+# Environment
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Django migrations
+*/migrations/*
+!*/migrations/__init__.py
+
+# Static files
+staticfiles/
+media/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MySQL
+*.sql
+*.sql.gz
+
+# PostgreSQL
+*.pgdata/
+
+# Coverage reports
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.yml
+
+# AWS
+.aws/
+
+# Local environment settings
+local_settings.py
+
+# PyCharm
+*.iml
